@@ -1,10 +1,10 @@
-package com.tensorsmart;
+package com.newpathfly;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.function.Executable;
 
-public class ExpirableMapTest {
+class ExpirableMapTest {
 
     @Test
     void positiveTest1() throws InterruptedException {
